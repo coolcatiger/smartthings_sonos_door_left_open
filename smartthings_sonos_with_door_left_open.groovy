@@ -1,7 +1,7 @@
 /**
  *  Sonos Custom Message With door left open notification
  *
- *  Author: coolcatiger
+ *  Author: coolcatiger - This code is copied and extented from SmartThings existing app.
  *  Date: 2015-2-28
  */
 definition(
